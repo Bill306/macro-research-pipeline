@@ -1,0 +1,4 @@
+interface:
+  display_name: "宏观研究流程"
+  short_description: "从宏观事件形成有来源、条件情景、交易表达和失效条件的研究记录"
+  default_prompt: "使用 $macro-research-pipeline 分析这个宏观事件，核验资料，形成条件情景、交易表达和失效条件，并记录后续检查项目。"
